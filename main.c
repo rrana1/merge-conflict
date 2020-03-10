@@ -9,7 +9,10 @@ feature1()
 {
   //Sample Code for Feature 1
 }
-
+featureAdd1()
+{
+  //Sample Code for Feature 1
+}
 
 
 }
